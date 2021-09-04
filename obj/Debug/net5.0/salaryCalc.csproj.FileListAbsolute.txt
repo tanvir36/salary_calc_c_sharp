@@ -1,0 +1,16 @@
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\bin\Debug\net5.0\salaryCalc.exe
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\bin\Debug\net5.0\salaryCalc.deps.json
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\bin\Debug\net5.0\salaryCalc.runtimeconfig.json
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\bin\Debug\net5.0\salaryCalc.runtimeconfig.dev.json
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\bin\Debug\net5.0\salaryCalc.dll
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\bin\Debug\net5.0\ref\salaryCalc.dll
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\bin\Debug\net5.0\salaryCalc.pdb
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.csproj.AssemblyReference.cache
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.AssemblyInfoInputs.cache
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.AssemblyInfo.cs
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.dll
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\ref\salaryCalc.dll
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.pdb
+C:\Users\Tanvir Kaur\Documents\sazan\class_2\salaryCalc\obj\Debug\net5.0\salaryCalc.genruntimeconfig.cache
